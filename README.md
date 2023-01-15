@@ -4,6 +4,8 @@ Notes can be taken by right-clicking on the cell.\
 To preview a note, hover over a cell.\
 When writing a note, type "/n" to insert a line break.
 
+All data is stored on your side.
+
 ---
 
 Includes code from https://github.com/maccman/motivation
